@@ -43,6 +43,7 @@
         <module>seyren-integration-tests</module>
         <module>seyren-api</module>
         <module>seyren-mongo</module>
+        <module>seyren-es</module>
         <module>seyren-core</module>
         <module>seyren-web</module>
     </modules>
